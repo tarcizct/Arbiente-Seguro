@@ -21,3 +21,4 @@ fechado com presença de gases nocivos à saúde
 REFERENCIAS
 
 https://www.makerhero.com/blog/tutorial-modulo-bluetooth-com-arduino/
+https://www.usinainfo.com.br/sensor-de-gas-arduino/sensor-de-co2-mh-z14a-infravermelho-cabo-8348.html
