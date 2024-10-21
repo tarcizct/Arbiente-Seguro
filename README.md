@@ -16,3 +16,8 @@ que o usuário possa manter-se saudável em ambientes desafiadores.
 O interesse com a aplicação desse sensor vai desde a aplicação numa
 cozinha industrial, até na análise do ar externo ou mesmo laboratorial/ambiente
 fechado com presença de gases nocivos à saúde
+
+
+REFERENCIAS
+
+https://www.makerhero.com/blog/tutorial-modulo-bluetooth-com-arduino/
