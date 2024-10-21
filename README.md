@@ -17,6 +17,17 @@ O interesse com a aplicação desse sensor vai desde a aplicação numa
 cozinha industrial, até na análise do ar externo ou mesmo laboratorial/ambiente
 fechado com presença de gases nocivos à saúde
 
+ITENS A SER UTILIZADOS:
+2 Arduino Uno
+2 modulo bluetooth uart
+2 Resistor 2.2 KOhm 1/4W
+2 Resistor 1 KOhm 1/4W
+1 protoboard
+2 Resistor 200 Ohm
+2 Led
+2 buzzer passivo
+2 MQ-135
+1 MH-Z14A
 
 REFERENCIAS
 
