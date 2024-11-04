@@ -29,6 +29,9 @@ ITENS A SER UTILIZADOS:
 2 MQ-135
 1 MH-Z14A
 
+![Sem título](https://github.com/user-attachments/assets/4fa16424-ec9c-40f0-8e05-63f5aa7ada2d)
+
+
 ![image](https://github.com/user-attachments/assets/b1e0c797-3024-4e38-9362-ce7e15af6e52)
 Esquemático Arbiente-Seguro.
 
