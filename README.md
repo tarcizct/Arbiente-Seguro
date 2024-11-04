@@ -30,6 +30,7 @@ ITENS A SER UTILIZADOS:
 1 MH-Z14A
 
 ![image](https://github.com/user-attachments/assets/a92f6f68-6a0e-4199-9949-7b0a1c881859)
+Esquemático Arbiente-Seguro
 
 
 REFERENCIAS
