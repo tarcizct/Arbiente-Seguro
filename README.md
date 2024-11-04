@@ -29,6 +29,9 @@ ITENS A SER UTILIZADOS:
 2 MQ-135
 1 MH-Z14A
 
+![image](https://github.com/user-attachments/assets/a92f6f68-6a0e-4199-9949-7b0a1c881859)
+
+
 REFERENCIAS
 
 https://www.makerhero.com/blog/tutorial-modulo-bluetooth-com-arduino/
