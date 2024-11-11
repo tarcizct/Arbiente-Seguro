@@ -93,6 +93,8 @@ Site para criação de aplicativos de celular que possui uma integração facili
 <p align="center">(Figura de exemplo genérico do app).</p>
 
 
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e01d0f1d-46af-472e-aed8-f8e7cb80e46e">
 </p>
@@ -103,7 +105,7 @@ Site para criação de aplicativos de celular que possui uma integração facili
 # Planta Resultante
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b1e0c797-3024-4e38-9362-ce7e15af6e52">
+  <img width=462 height=334 src="https://github.com/user-attachments/assets/b1e0c797-3024-4e38-9362-ce7e15af6e52">
 </p>
 
 
