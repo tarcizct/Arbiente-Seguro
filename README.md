@@ -1,6 +1,14 @@
 # Arbiente-Seguro
-Projeto de sensor de qualidade do ar PI2-IFSC
+# Projeto Integrador 2 - 2024/2
 
+Instituto Federal de Santa Catarina - *Campus* Florianópolis
+Departamento Acadêmico de Eletrônica
+Curso de Engenharia Eletrônica
+Alunos: 
+* Leandro Luiz Schoninger Filho - <leandro.lsf@aluno.ifsc.edu.br>
+* Tarcísio Zanchetta - <tarcisio.z@aluno.ifsc.edu.br>
+
+# Concepção
 Com o aumento da frequência do detrimento da qualidade do ar por
 conta dos problemas ecológicos cada vez mais preocupantes, a saúde e o
 bem-estar das pessoas estão cada vez mais avariadas, com falta de
@@ -18,7 +26,8 @@ cozinha industrial, até na análise do ar externo ou mesmo laboratorial/ambient
 fechado com presença de gases nocivos à saúde
 
 # Design
-Componentes:
+Abaixo destaca-se os componentes e os esboços esquemáticos necessários para a montagem do projeto.
+
 ## Arduino Uno R3
 Microcontrolador com chip ATmega328p, que possui entradas e saídas digitais e analógicas para integração de sensores e módulos. Além de sua fácil programação e facilidade de uso, possui um preço acessível, o que torna extremamente poderoso e ideal para projetar.
 
