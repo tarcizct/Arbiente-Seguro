@@ -29,7 +29,7 @@ fechado com presença de gases nocivos à saúde
 
 
 <p align="center">
-  <img width="500" height="460" src="https://github.com/user-attachments/assets/f3a6f94a-fe15-46d0-91bb-25d809eb9a3f">
+  <img  src="https://github.com/user-attachments/assets/f3a6f94a-fe15-46d0-91bb-25d809eb9a3f">
 </p>
 
 
