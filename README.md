@@ -86,13 +86,13 @@ Site para criação de aplicativos de celular que possui uma integração facili
 (Figura de exemplo de programação do app conectar ao bluetooth do módulo HC-05 disponível pelo canal no youtube Brino Robótica Educacional)
 
 
-
+#Planta Resultante
 ![image](https://github.com/user-attachments/assets/b1e0c797-3024-4e38-9362-ce7e15af6e52)
 Esquemático Arbiente-Seguro.
 
 
 
-REFERENCIAS
+#REFERENCIAS
 
 https://www.makerhero.com/blog/tutorial-modulo-bluetooth-com-arduino/
 https://www.usinainfo.com.br/sensor-de-gas-arduino/sensor-de-co2-mh-z14a-infravermelho-cabo-8348.html
