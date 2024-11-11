@@ -1,17 +1,13 @@
 # Arbiente-Seguro
 
-# Projeto Integrador 2 - 2024/2
-
 Instituto Federal de Santa Catarina - *Campus* Florianópolis
 Departamento Acadêmico de Eletrônica
 Curso de Engenharia Eletrônica
 
-Alunos:
+Projetistas
 
 * Leandro Luiz Schoninger Filho - <leandro.lsf@aluno.ifsc.edu.br>
 * Tarcísio Zanchetta - <tarcisio.z@aluno.ifsc.edu.br>
-
-# Concepção
 
   Com o aumento da frequência do detrimento da qualidade do ar por
 conta dos problemas ecológicos cada vez mais preocupantes, a saúde e o
@@ -42,7 +38,8 @@ fechado com presença de gases nocivos à saúde
 
 (Figura do Arduino Uno R3)
 
-##Módulo Bluetooth HC-05
+
+## Módulo Bluetooth HC-05
 
 Módulo para o Arduino que o permite enviar e receber sinais via bluetooth. Possui uma configuração simples e com um preço baixo. Com alcance de 10 metros, tornando assim útil para pequenos ambientes a serem monitorados.
 
@@ -50,12 +47,13 @@ Módulo para o Arduino que o permite enviar e receber sinais via bluetooth. Poss
 
 (Figura ilustrativa do Módulo Bluetooth HC-05)
 
-Modelo de montagem do módulo Bluetooth para envio de dados para o App no celular disponibilizado pelo site MakerHero:
 
+Modelo de montagem do módulo Bluetooth para envio de dados para o App no celular disponibilizado pelo site MakerHero:
 
 ![image](https://github.com/user-attachments/assets/4f73ba83-8e0a-4c6d-9243-ca6956771557)
 
 (Figura do modelo de funcionamento do HC-05 como modo Mestre)
+
 
 ## Sensor MQ-135
 
@@ -65,17 +63,18 @@ Sensor compatível com o Arduino, o qual é capaz de detectar a presença e/ou c
 ![image](https://github.com/user-attachments/assets/d1641f76-6be4-4ef6-9b02-4e36e0524786)
 
 (Figura do sensor MQ-135)
-Modelo de montagem do sistema com o sensor MQ-135 disponível no tinkercad:
 
+
+Modelo de montagem do sistema com o sensor MQ-135 disponível no tinkercad:
 
 ![image](https://github.com/user-attachments/assets/c5d18167-9eb6-4c59-a30e-511d01eaeacb)
 
 (Figura do modelo de funcionamento do sensor MQ-135)
 
+
 ## MIT AppInventor
 
 Site para criação de aplicativos de celular que possui uma integração facilitada com o microcontrolador Arduino e para o módulo HC-05.
-
 
 ![image](https://github.com/user-attachments/assets/373f85d0-1953-4447-ada9-faf233437bab)
 
@@ -88,11 +87,14 @@ Site para criação de aplicativos de celular que possui uma integração facili
 
 
 # Planta Resultante
+
 ![image](https://github.com/user-attachments/assets/b1e0c797-3024-4e38-9362-ce7e15af6e52)
 Esquemático Arbiente-Seguro.
 
 
 
 # Referências
-https://www.makerhero.com/blog/tutorial-arduino-bluetooth-hc-05-mestre/
-https://www.usinainfo.com.br/sensor-de-gas-arduino/sensor-de-co2-mh-z14a-infravermelho-cabo-8348.html
+* https://www.makerhero.com/blog/tutorial-arduino-bluetooth-hc-05-mestre/
+* https://www.usinainfo.com.br/sensor-de-gas-arduino/sensor-de-co2-mh-z14a-infravermelho-cabo-8348.html
+* https://www.tinkercad.com/things/iQq2Xw76GUK-copy-of-detector-de-fumaca/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
+* https://www.youtube.com/@brino_edu
