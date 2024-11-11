@@ -28,7 +28,7 @@ cozinha industrial, até na análise do ar externo ou mesmo laboratorial/ambient
 fechado com presença de gases nocivos à saúde
 
 
-![image](https://github.com/user-attachments/assets/36a05a05-ec17-4acc-9b2c-7fddd033fb17)
+![image](https://github.com/user-attachments/assets/f3a6f94a-fe15-46d0-91bb-25d809eb9a3f)
 
 
 # Design
