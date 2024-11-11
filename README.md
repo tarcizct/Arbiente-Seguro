@@ -27,6 +27,10 @@ O interesse com a aplicação desse sensor vai desde a aplicação numa
 cozinha industrial, até na análise do ar externo ou mesmo laboratorial/ambiente
 fechado com presença de gases nocivos à saúde
 
+
+![image](https://github.com/user-attachments/assets/36a05a05-ec17-4acc-9b2c-7fddd033fb17)
+
+
 # Design
 
   Abaixo destaca-se os componentes e os esboços esquemáticos necessários para a montagem do projeto.
