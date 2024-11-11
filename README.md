@@ -107,7 +107,7 @@ Site para criação de aplicativos de celular que possui uma integração facili
 <p align="center">
   <img width=462 height=334 src="https://github.com/user-attachments/assets/b1e0c797-3024-4e38-9362-ce7e15af6e52">
 </p>
-
+<p align="center">....</p>
 
 
 # Referências
