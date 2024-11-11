@@ -28,7 +28,7 @@ fechado com presença de gases nocivos à saúde
 # Design
 Abaixo destaca-se os componentes e os esboços esquemáticos necessários para a montagem do projeto.
 
-## Arduino Uno R3
+## *Arduino Uno R3
 Microcontrolador com chip ATmega328p, que possui entradas e saídas digitais e analógicas para integração de sensores e módulos. Além de sua fácil programação e facilidade de uso, possui um preço acessível, o que torna extremamente poderoso e ideal para projetar.
 
 (Figura do Arduino Uno R3)
