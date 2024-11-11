@@ -29,6 +29,10 @@ ITENS A SER UTILIZADOS:
 2 MQ-135
 1 MH-Z14A
 
+Designe
+
+https://docs.google.com/document/d/1-M7JsuPMnNRBw-6t0dHKmxgBMf4rZE9k/edit?usp=drivesdk&ouid=102812544872728031002&rtpof=true&sd=true
+
 ![Sem título](https://github.com/user-attachments/assets/4fa16424-ec9c-40f0-8e05-63f5aa7ada2d)
 
 
