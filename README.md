@@ -17,19 +17,35 @@ O interesse com a aplicação desse sensor vai desde a aplicação numa
 cozinha industrial, até na análise do ar externo ou mesmo laboratorial/ambiente
 fechado com presença de gases nocivos à saúde
 
-ITENS A SER UTILIZADOS:
-2 Arduino Uno
-2 modulo bluetooth uart
-2 Resistor 2.2 KOhm 1/4W
-2 Resistor 1 KOhm 1/4W
-1 protoboard
-2 Resistor 200 Ohm
-2 Led
-2 buzzer passivo
-2 MQ-135
-1 MH-Z14A
+# Design
+Componentes:
+## Arduino Uno R3
+Microcontrolador com chip ATmega328p, que possui entradas e saídas digitais e analógicas para integração de sensores e módulos. Além de sua fácil programação e facilidade de uso, possui um preço acessível, o que torna extremamente poderoso e ideal para projetar.
 
-Designe
+(Figura do Arduino Uno R3)
+##Módulo Bluetooth HC-05
+Módulo para o Arduino que o permite enviar e receber sinais via bluetooth. Possui uma configuração simples e com um preço baixo. Com alcance de 10 metros, tornando assim útil para pequenos ambientes a serem monitorados.
+
+(Figura ilustrativa do Módulo Bluetooth HC-05)
+Modelo de montagem do módulo Bluetooth para envio de dados para o App no celular disponibilizado pelo site MakerHero:
+
+(Figura do modelo de funcionamento do HC-05 como modo Mestre)
+## Sensor MQ-135
+Sensor compatível com o Arduino, o qual é capaz de detectar a presença e/ou concentração de certos gases, tais como amônia, dióxido de carbono, benzeno, óxido nítrico, fumaça ou álcool. Após a detecção de um dos gases anteriores, envia um sinal HIGH para a entrada analógica do Arduino. 
+
+(Figura do sensor MQ-135)
+Modelo de montagem do sistema com o sensor MQ-135 disponível no tinkercad:
+
+(Figura do modelo de funcionamento do sensor MQ-135)
+
+## MIT AppInventor
+Site para criação de aplicativos de celular que possui uma integração facilitada com o microcontrolador Arduino e para o módulo HC-05.
+
+
+(Figura de exemplo genérico do app)
+
+(Figura de exemplo de programação do app conectar ao bluetooth do módulo HC-05 disponível pelo canal no youtube Brino Robótica Educacional)
+
 
 https://docs.google.com/document/d/1-M7JsuPMnNRBw-6t0dHKmxgBMf4rZE9k/edit?usp=drivesdk&ouid=102812544872728031002&rtpof=true&sd=true
 
