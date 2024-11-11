@@ -43,9 +43,8 @@ fechado com presença de gases nocivos à saúde
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58e84fa7-da44-4f20-aa4a-aa0d4f614356">
-  <content>(Figura do Arduino Uno R3)<content>
 </p>
-
+<p class="centered-text">(Figura do Arduino Uno R3).</p>
 
 
 ## Módulo Bluetooth HC-05
