@@ -39,7 +39,7 @@ fechado com presença de gases nocivos à saúde.
 
 ## Esp32 
 
-  Microcontrolador com processador  Xtensa LX6 dual-core de 32 bits, que possui entradas e saídas digitais e analógicas para integração de sensores e módulos. Além de sua fácil programação e facilidade de uso, possui um preço acessível, o que torna extremamente poderoso e ideal para projetar.
+  Microcontrolador com processador  Xtensa LX6 dual-core de 32 bits, que possui entradas e saídas digitais e analógicas para integração de sensores e módulos e Wifi incluído. Além de sua fácil programação e facilidade de uso, possui um preço acessível, o que torna extremamente poderoso e ideal para projetar.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cd6c5048-c17f-4a36-8223-771e3f3ad8f3">
