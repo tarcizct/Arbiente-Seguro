@@ -35,5 +35,4 @@ fechado com presença de gases nocivos à saúde.
 
 # Design
 
-  Abaixo destaca-se os componentes e os esboços esquemáticos necessários para a montagem do projeto.
-
+  Link: https://github.com/tarcizct/Arbiente-Seguro/blob/main/Design.md
