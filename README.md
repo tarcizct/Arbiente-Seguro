@@ -37,37 +37,19 @@ fechado com presença de gases nocivos à saúde.
 
   Abaixo destaca-se os componentes e os esboços esquemáticos necessários para a montagem do projeto.
 
-## Arduino Uno R3
+## Esp32 
 
-  Microcontrolador com chip ATmega328p, que possui entradas e saídas digitais e analógicas para integração de sensores e módulos. Além de sua fácil programação e facilidade de uso, possui um preço acessível, o que torna extremamente poderoso e ideal para projetar.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/58e84fa7-da44-4f20-aa4a-aa0d4f614356">
-</p>
-<p align="center">(Figura do Arduino Uno R3).</p>
-
-
-## Módulo Bluetooth HC-05
-
-Módulo para o Arduino que o permite enviar e receber sinais via bluetooth. Possui uma configuração simples e com um preço baixo. Com alcance de 10 metros, tornando assim útil para pequenos ambientes a serem monitorados.
+  Microcontrolador com processador  Xtensa LX6 dual-core de 32 bits, que possui entradas e saídas digitais e analógicas para integração de sensores e módulos. Além de sua fácil programação e facilidade de uso, possui um preço acessível, o que torna extremamente poderoso e ideal para projetar.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5673005-e40a-4f9e-9864-4adf0303e5ab">
+  <img src="https://github.com/user-attachments/assets/cd6c5048-c17f-4a36-8223-771e3f3ad8f3">
 </p>
-<p align="center">(Figura ilustrativa do Módulo Bluetooth HC-05).</p>
-
-
-Modelo de montagem do módulo Bluetooth para envio de dados para o App no celular disponibilizado pelo site MakerHero:
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4f73ba83-8e0a-4c6d-9243-ca6956771557">
-</p>
-<p align="center">(Figura do modelo de funcionamento do HC-05 como modo Mestre).</p>
+<p align="center">(Figura do ESP32).</p>
 
 
 ## Sensor MQ-135
 
-Sensor compatível com o Arduino, o qual é capaz de detectar a presença e/ou concentração de certos gases, tais como amônia, dióxido de carbono, benzeno, óxido nítrico, fumaça ou álcool. Após a detecção de um dos gases anteriores, envia um sinal HIGH para a entrada analógica do Arduino. 
+Sensor compatível com o ESP32, o qual é capaz de detectar a presença e/ou concentração de certos gases, tais como amônia, dióxido de carbono, benzeno, óxido nítrico, fumaça ou álcool. Após a detecção de um dos gases anteriores, envia um sinal HIGH para a entrada analógica do Arduino. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1641f76-6be4-4ef6-9b02-4e36e0524786">
@@ -75,43 +57,41 @@ Sensor compatível com o Arduino, o qual é capaz de detectar a presença e/ou c
 <p align="center">(Figura do sensor MQ-135).</p>
 
 
-Modelo de montagem do sistema com o sensor MQ-135 disponível no tinkercad:
+Modelo de montagem do sistema com o sensor MQ-135:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5d18167-9eb6-4c59-a30e-511d01eaeacb">
+  <img src="https://github.com/user-attachments/assets/4f3f6d0d-f6e4-4502-939a-3d06c305dfb6">
 </p>
 <p align="center">(Figura do modelo de funcionamento do sensor MQ-135).</p>
 
 
-## MIT AppInventor
-
-Site para criação de aplicativos de celular que possui uma integração facilitada com o microcontrolador Arduino e para o módulo HC-05.
+## MQTT
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/373f85d0-1953-4447-ada9-faf233437bab">
+  <img src="">
 </p>
-<p align="center">(Figura de exemplo genérico do app).</p>
+<p align="center">(Figura de exemplo genérico).</p>
 
 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e01d0f1d-46af-472e-aed8-f8e7cb80e46e">
+  <img src="">
 </p>
-<p align="center">(Figura de exemplo de programação do app conectar ao bluetooth do módulo HC-05 disponível pelo canal no youtube Brino Robótica Educacional).</p>
+<p align="center">(F).</p>
 
 
 
 # Planta Resultante
 
 <p align="center">
-  <img width=462 height=334 src="https://github.com/user-attachments/assets/b1e0c797-3024-4e38-9362-ce7e15af6e52">
+  <img width=462 height=334 src="">
 </p>
 <p align="center"> </p>
 
 
 # Referências
-* https://www.makerhero.com/blog/tutorial-arduino-bluetooth-hc-05-mestre/
-* https://www.usinainfo.com.br/sensor-de-gas-arduino/sensor-de-co2-mh-z14a-infravermelho-cabo-8348.html
-* https://www.tinkercad.com/things/iQq2Xw76GUK-copy-of-detector-de-fumaca/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
+* (https://victorvision.com.br/blog/placa-esp32/)
+* https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.asksensors.com/air-quality-sensor-mq135-cloud-mqtt/
+* https://mqtt.org/
 * https://www.youtube.com/@brino_edu
