@@ -42,3 +42,31 @@ E o resultado serial foi:
 <p align="center">(Figura resultado serial lido pelo sensor MQ-135).</p>
 
 Com isso o funcionamento do sensor se deu corretamente, foi testado com um pouco de fumaça controlada para ver os valores analógicos serem alterados.
+
+## Blynk
+
+O último teste individual foi do aplicativo Blynk. Seguiu-se o passo a passo do blog (hackster.io) para realizar esse teste. A montagem do circuito foi exatamente a mesma que no teste do MQ-135, a diferença se dá somente no código agora: 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/acfbed2d-520a-41e6-bbec-a96d40b02877">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/891d565b-f135-4874-91e1-3631d09ff509)">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/894375a4-ad77-4c3f-a2e9-5646c2c6e253">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa74296a-bfd1-43ff-ae91-e6b8c917e27d">
+</p>
+
+E o resultado no aplicativo de celular da Blynk foi: 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2374f311-c74b-4bfc-b227-c5c5c983491d">
+</p>
+
+Apenas desconsiderando os valores extremamente altos por conta dos cálculos, que serão ajustados em breve, houve um resultado satisfatório para o funcionamento de todo o sistema.
