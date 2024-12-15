@@ -70,3 +70,9 @@ E o resultado no aplicativo de celular da Blynk foi:
 </p>
 
 Apenas desconsiderando os valores extremamente altos por conta dos cálculos, que serão ajustados em breve, houve um resultado satisfatório para o funcionamento de todo o sistema.
+
+Segundo a Vaisala, quando o ppm de co2 chegar a 5000, há um risco para o ser humano, logo a sirene começará a soar.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d913e7e0-1cb5-4356-9605-fbee8db292f6">
+</p>
+
