@@ -84,3 +84,14 @@ Segundo a Vaisala, quando o ppm de co2 chegar a 5000, há um risco para o ser hu
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d913e7e0-1cb5-4356-9605-fbee8db292f6">
 </p>
+
+## Referências
+
+https://blog-asksensors-com.translate.goog/air-quality-sensor-mq135-cloud-mqtt/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
+https://forum.arduino.cc/t/how-to-calibrate-an-mq-135-gas-sensor-co2/402038/3
+https://mischianti.org/doit-esp32-dev-kit-v1-high-resolution-pinout-and-specs/
+https://components101-com.translate.goog/sensors/mq135-gas-sensor-for-air-quality?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
+https://www.upesy.com/blogs/tutorials/measure-voltage-on-esp32-with-adc-with-arduino-code?srsltid=AfmBOorrGuhgN4d4wQx16BU-Zwh6bmrTmLYiBWLAlySbDQdTJpkhU0dB#
+https://www.futurlec.com/Datasheet/Sensor/MQ-135.pdf
+https://www.hackster.io/512389/esp32-monitoring-air-quality-with-mq-135-integrated-blynk-77d18b
+https://github.com/GeorgK/MQ135?tab=readme-ov-file#readme
