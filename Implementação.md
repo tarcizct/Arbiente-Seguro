@@ -84,7 +84,3 @@ Segundo a Vaisala, quando o ppm de co2 chegar a 5000, há um risco para o ser hu
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d913e7e0-1cb5-4356-9605-fbee8db292f6">
 </p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/OCAVH-SFsM8AAAAd/it%27s-fine-im-fine.gif">
-  </p>
