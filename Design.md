@@ -37,6 +37,5 @@ Modelo de montagem do sistema com o sensor MQ-135:
 # Referências
 * (https://victorvision.com.br/blog/placa-esp32/)
 * https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.asksensors.com/air-quality-sensor-mq135-cloud-mqtt/
-* https://mqtt.org/
 * https://www.youtube.com/@brino_edu
 
