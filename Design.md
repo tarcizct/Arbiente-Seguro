@@ -12,9 +12,7 @@
 
 Sensor compatível com o ESP32, o qual é capaz de detectar a presença e/ou concentração de certos gases, tais como amônia, dióxido de carbono, benzeno, óxido nítrico, fumaça ou álcool. Após a detecção de um dos gases anteriores, envia um sinal HIGH para a entrada analógica do Arduino. 
 
-![image](https://github.com/user-attachments/assets/65808a63-1b48-46d7-81cc-edafa2091b53)
-
-
+![image](https://github.com/user-attachments/assets/672d6065-7dfd-40e6-8ae5-e37d6fad2ace)
 
 Modelo de montagem do sistema com o sensor MQ-135:
 
