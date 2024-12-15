@@ -37,9 +37,8 @@ Modelo de montagem do sistema com o sensor MQ-135:
 # Planta Resultante
 
 <p align="center">
-  <img width=462 height=334 src="">
+   <img src=" ">
 </p>
-<p align="center"> </p>
 
 
 # Referências
