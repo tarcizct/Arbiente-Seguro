@@ -33,7 +33,8 @@ Modelo de montagem do sistema com o sensor MQ-135:
 
 
 # Planta Resultante
-![image](https://github.com/user-attachments/assets/22a8fb49-ecbf-4b46-9774-edad991febfc)
+![image](https://github.com/user-attachments/assets/e2fbc114-091c-47d1-a457-e90ca52d23be)
+
 
 
 
