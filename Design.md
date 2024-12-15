@@ -1,4 +1,4 @@
-## Esp32 
+## ESP32 
 
   Microcontrolador com processador  Xtensa LX6 dual-core de 32 bits, que possui entradas e saídas digitais e analógicas para integração de sensores e módulos e Wifi incluído. Além de sua fácil programação e facilidade de uso, possui um preço acessível, o que torna extremamente poderoso e ideal para projetar.
 
