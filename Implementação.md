@@ -30,7 +30,6 @@ A montagem se deu pela seguinte lógica:
 
 Código de Teste:
 
-//////
 <p align="center">
   <img src="https://github.com/user-attachments/assets/88c837b2-d2ec-4b46-a7d4-88b45fa2e156">
 </p>
@@ -40,7 +39,6 @@ Código de Teste:
 <p align="center">(Figura do Código do Sensor MQ-135).</p>
 
 E o resultado serial foi: 
-//////
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/38839b0e-5e6c-4cc9-9860-e93af85b6ed7">
@@ -53,13 +51,8 @@ O funcionamento do sensor se deu corretamente, foi testado em um ambiente contro
 
 Seguiu-se o passo a passo do blog (hackster.io) para realizar esse teste. A montagem do circuito foi exatamente a mesma que no teste do MQ-135, a diferença se dá somente no código: 
 
-/////////
 <p align="center">
   <img src="https://github.com/user-attachments/assets/acfbed2d-520a-41e6-bbec-a96d40b02877">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/891d565b-f135-4874-91e1-3631d09ff509)">
 </p>
 
 <p align="center">
@@ -69,7 +62,6 @@ Seguiu-se o passo a passo do blog (hackster.io) para realizar esse teste. A mont
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa74296a-bfd1-43ff-ae91-e6b8c917e27d">
 </p>
-//////////
 
 E o resultado no aplicativo web/celularde foi: 
 
