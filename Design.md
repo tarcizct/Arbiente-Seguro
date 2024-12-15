@@ -26,21 +26,12 @@ Modelo de montagem do sistema com o sensor MQ-135:
 <p align="center">(Figura do modelo de funcionamento do sensor MQ-135).</p>
 
 
-## MQTT
+## Blynk
 
 <p align="center">
-  <img src="">
+  <img src="https://curtocircuito.com.br/pub/media/wysiwyg/blog/ESP32_Blynk/app2.jpg">
 </p>
 <p align="center">(Figura de exemplo genérico).</p>
-
-
-
-
-<p align="center">
-  <img src="">
-</p>
-<p align="center">(F).</p>
-
 
 
 # Planta Resultante
