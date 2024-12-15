@@ -22,6 +22,8 @@ Modelo de montagem do sistema com o sensor MQ-135:
 
 ## Blynk
 
+Aplicativo em Web/Celular que possibilita a comunicação via IOT entre a ESP32 e o usuário.
+
 <p align="center">
   <img src="https://curtocircuito.com.br/pub/media/wysiwyg/blog/ESP32_Blynk/app2.jpg">
 </p>
