@@ -93,6 +93,11 @@ Após correções, foi montado o projeto resultante, com integração entre Blyn
   <img src="https://github.com/user-attachments/assets/cc36eb5b-ad3a-4f69-a236-0e5272c9884b">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/caf0b862-d945-4e26-bb9d-c31c9414778d">
+</p>
+
+
 
 ## Referências
 
