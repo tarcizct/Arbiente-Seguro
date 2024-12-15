@@ -34,26 +34,12 @@ void loop() {
   Blynk.run();
 
   if (isRunning) {
-    /*MQ135 Gas_Sensor = MQ135(MQ135pin);
-   // float V_out = rawValue *(V_Ref/1024);
-    //float Rs = Rl*((V_Ref - V_out) / V_out);
-    float ppm = Gas_Sensor.getPPM();
-    float rzero = Gas_Sensor.getRZero();
-    Serial.println(rzero);
-    // Calculate CO2, CO, and other gases
-    float ppm = 1.0 / (0.03588 * pow(resistance, 1.336));
-    float co = ppm / 2.2;        // Approximate conversion from PPM to CO
-    float methane = ppm / 2.7;    // Approximate conversion from PPM to CH4
-    float ammonia = ppm / 3.6;    // Approximate conversion from PPM to NH3
-    */
-
     float rs=(3.3/(analogRead(A0)*(3.3/1023))-1)*10000;
     float rzero = 67.0;
     float ppm = rs/rzero;
     float co = ppm / 2.2;        // Approximate conversion from PPM to CO
     float methane = ppm / 2.7;    // Approximate conversion from PPM to CH4
     float ammonia = ppm / 3.6;    // Approximate conversion from PPM to NH3
-    
     //em caso de concentração de CO2 maior que 5000, ou CO maior que 50 ou metano maior que 50 ligar sirene de alerta.
     if(ppm>5000||co>400||methane>400){
       digitalWrite(PINO_BUZZER, HIGH); // Ligar o buzzer
@@ -63,13 +49,6 @@ void loop() {
       digitalWrite(PINO_BUZZER, LOW); // Desligar o buzzer
       Blynk.virtualWrite(V7, 0);
     }
-    // Debugging: Print values to Serial Monitor
-    //Serial.print("Raw Analog Value: ");
-    //Serial.println(rawValue);
-    //Serial.print("Voltage: ");
-   // Serial.println(voltage, 2);    // Print with 2 decimal places
-   // Serial.print("Sensor Resistance: ");
-   // Serial.println(resistance, 2); // Print with 2 decimal places
     Serial.print("CO2 PPM: ");
     Serial.print(ppm, 2);        // Print with 2 decimal places
     Serial.print("\t CO: ");
@@ -78,26 +57,12 @@ void loop() {
     Serial.print(methane, 2);    // Print with 2 decimal places
     Serial.print("\t Ammonia (NH3) PPM: ");
     Serial.println(ammonia, 2);    // Print with 2 decimal places
-
     // Display CO2, CO, and other gases on Blynk app
     Blynk.virtualWrite(V0, ppm);
     Blynk.virtualWrite(V1, co);
     Blynk.virtualWrite(V2, methane);
     Blynk.virtualWrite(V3, ammonia);
-   // Blynk.virtualWrite(V4, voltage);
-   // Blynk.virtualWrite(V5, resistance);
-
     // Add CO2 value to Blynk chart
-
-   /* // Check CO2 levels and control LED
-    if (co > SMOKE_THRESHOLD) {
-      Blynk.virtualWrite(V10, 1);
-      digitalWrite(ledBadQuality, HIGH);
-    } else {
-      Blynk.virtualWrite(V10, 0);
-      digitalWrite(ledBadQuality, LOW);
-    }
-*/
     delay(6000); // Adjust the delay based on your application needs
   }
 }
@@ -119,8 +84,5 @@ BLYNK_WRITE(V6) {
     Blynk.virtualWrite(V2, 0); // Reset Methane value
     Blynk.virtualWrite(V3, 0); // Reset Ammonia value
     Blynk.virtualWrite(V7, 0); // Reset Ammonia value
-   // Blynk.virtualWrite(V4, 0); // Reset another V9 value (adjust as needed)
-   // Blynk.virtualWrite(V5, 0); // Turn off LED
-    //digitalWrite(ledBadQuality, LOW);
   }
 }
