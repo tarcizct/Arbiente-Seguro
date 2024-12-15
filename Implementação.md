@@ -85,6 +85,15 @@ Segundo a Vaisala, quando o ppm de co2 chegar a 5000, há um risco para o ser hu
   <img src="https://github.com/user-attachments/assets/d913e7e0-1cb5-4356-9605-fbee8db292f6">
 </p>
 
+## Projeto Resultante
+
+Após correções, foi montado o projeto resultante, com integração entre Blynk, MQ-135 e Buzzer, para que em detecção de gases tóxicos, seja ativado a sirene do buzzer e também apareça um sinal visual no aplicativo. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc36eb5b-ad3a-4f69-a236-0e5272c9884b">
+</p>
+
+
 ## Referências
 
 *https://blog-asksensors-com.translate.goog/air-quality-sensor-mq135-cloud-mqtt/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
