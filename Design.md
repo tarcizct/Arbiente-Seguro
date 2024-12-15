@@ -37,7 +37,7 @@ Aplicativo em Web/Celular que possibilita a comunicação via IOT entre a ESP32 
 
 
 # Referências
-* (https://victorvision.com.br/blog/placa-esp32/)
+* https://victorvision.com.br/blog/placa-esp32/
 * https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.asksensors.com/air-quality-sensor-mq135-cloud-mqtt/
 * https://www.youtube.com/@brino_edu
 
