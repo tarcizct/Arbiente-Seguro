@@ -1,4 +1,4 @@
-*/
+
 #define BLYNK_TEMPLATE_ID "TMPL2Ie612Qwl"
 #define BLYNK_TEMPLATE_NAME "Arbiente"
 #define BLYNK_AUTH_TOKEN "2z_szXtUV4TA2BOkFwxElFVVmNws8u00"
