@@ -4,7 +4,7 @@ O primeiro passo da implementação do projeto se deu por testar individualmente
 
 ## Buzzer
 
-A conexão feita está abaixo, com um resistor de 1.5kΩ:
+A conexão feita está abaixo, com um resistor de 1.2kΩ:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd919fd7-ff90-482f-af44-bba58c5fedf3">
 </p>
