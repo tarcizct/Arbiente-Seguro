@@ -16,7 +16,7 @@ Código de Teste:
 </p>
 <p align="center">(Figura do código para o teste do Buzzer).</p>
 
-O resultado nos forneceu um som extremamente baixo, logo foi realizado a troca por um resistor de 100Ω para a melhora no som de alarme.
+O resultado nos forneceu um som extremamente baixo, logo foi realizado a troca por um resistor de 600Ω para a melhora no som de alarme.
 
 
 ## MQ-135
