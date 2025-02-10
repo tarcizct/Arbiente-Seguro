@@ -2,7 +2,7 @@
 
 O primeiro passo da implementação do projeto se deu por testar individualmente cada um dos componentes necessários, sendo eles o Buzzer, MQ-135, Aplicativo Blinky em conexão com a ESP32.
 
-## Buzzer
+## Buzzer (Descontinuado)
 
 A conexão feita está abaixo, com um resistor de 1.2kΩ:
 <p align="center">
@@ -19,7 +19,7 @@ Código de Teste:
 O resultado nos forneceu um som extremamente baixo, logo foi realizado a troca por um resistor de 600Ω para a melhora no som de alarme.
 
 
-## MQ-135
+## ZP07-MP503 (Anteriormente MQ-135)
 
 A montagem se deu pela seguinte lógica:
 
@@ -47,7 +47,7 @@ E o resultado serial foi:
 
 O funcionamento do sensor se deu corretamente, foi testado em um ambiente controlado com um pouco de fumaça (CO2) possibilitando ver os valores analógicos sendo alterados.
 
-## Blynk
+## MQTT (Anteriormente Blynk)
 
 Seguiu-se o passo a passo do blog (hackster.io) para realizar esse teste. A montagem do circuito foi exatamente a mesma que no teste do MQ-135, a diferença se dá somente no código: 
 
