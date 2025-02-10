@@ -8,7 +8,7 @@
 <p align="center">(Figura do ESP32).</p>
 
 
-## Sensor MQ-135
+## Sensor ZP07-MP503
 
 Sensor compatível com o ESP32, o qual é capaz de detectar a presença e/ou concentração de certos gases, tais como amônia, dióxido de carbono, benzeno, óxido nítrico, fumaça ou álcool. Após a detecção de um dos gases anteriores, envia um sinal HIGH para a entrada analógica do Arduino. 
 
@@ -20,7 +20,7 @@ Modelo de montagem do sistema com o sensor MQ-135:
 <p align="center">(Figura do modelo de funcionamento do sensor MQ-135).</p>
 
 
-## Blynk
+## Mqtt
 
 Aplicativo em Web/Celular que possibilita a comunicação via IOT entre a ESP32 e o usuário.
 
