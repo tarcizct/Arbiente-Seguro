@@ -20,7 +20,7 @@ Modelo de montagem do sistema com o sensor MQ-135:
 <p align="center">(Figura do modelo de funcionamento do sensor MQ-135).</p>
 
 
-## Mqtt
+## MQTT
 
 Aplicativo em Web/Celular que possibilita a comunicação via IOT entre a ESP32 e o usuário.
 
