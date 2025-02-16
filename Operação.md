@@ -1,1 +1,1 @@
-
+  A fim de otimizar o projeto em sua operação, optou-se por fazer uma mudança no sensor que anteriormente estava sendo usado, o MQ-135 e então o novo escolhido foi o ZP-503. A troca ocorreu em busca de ter uma maior precisão nos valores obtidos pelo sensor, além disso, segundo o datasheet do ZP-503, está informado que a partir dos pinos A e B obtém-se a informação para sem poluição, pouca poluição, poluição e muita poluição, facilitando assim a troca de informação com o sistema para avisar ao usuário.
