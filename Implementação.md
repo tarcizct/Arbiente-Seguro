@@ -1,6 +1,6 @@
 ## Teste Individual
 
-O primeiro passo da implementação do projeto se deu por testar individualmente cada um dos componentes necessários, sendo eles o Buzzer, MQ-135, Aplicativo Blinky em conexão com a ESP32.
+O primeiro passo da implementação do projeto se deu por testar individualmente cada um dos componentes necessários, sendo eles o Buzzer, MQ-135, Aplicativo Blinky em conexão com a ESP32, entretanto durante a fase de Operação, tivemopas algumas alterações como do sensor para o ZP07-MP503 e devido a uma melhor otimização, a mudança para o MQTT do Blynk.
 
 ## Buzzer (Descontinuado)
 
@@ -19,7 +19,7 @@ Código de Teste:
 O resultado nos forneceu um som extremamente baixo, logo foi realizado a troca por um resistor de 600Ω para a melhora no som de alarme.
 
 
-## ZP07-MP503 (Anteriormente MQ-135)
+## MQ-135 (Posteriormente ZP07-MP503)
 
 A montagem se deu pela seguinte lógica:
 
