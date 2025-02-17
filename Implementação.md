@@ -19,8 +19,6 @@ A montagem se deu pela seguinte lógica:
 </p>
 <p align="center">(Figura do ESP32 montado com o sensor MQ-135).</p>
 
-O funcionamento do sensor se deu corretamente, foi testado em um ambiente controlado com um pouco de fumaça (CO2) possibilitando ver os valores analógicos sendo alterados pelo código no Blynk.
-
 ## Blynk (Descontinuado)
 
 Seguiu-se o passo a passo do blog (hackster.io) para realizar esse teste. A montagem do circuito foi exatamente a mesma que no teste do MQ-135, a diferença se dá somente no código.
