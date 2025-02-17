@@ -52,9 +52,9 @@ Primeiro protótipo do projeto, com integração entre Blynk, MQ-135 e o Buzzer,
 Após os testes durante a fase de Operação, fizemos a substituição para o sensor ZP07-MP503, utilizando o protocolo MQTT invés do aplicativo web Blynk e retirando o Buzzer, para um designe mais cleam e melhor integração com o sistema [Dashboard ThinkBoard](https://github.com/sooarees/Dashboard-ThingsBoard) do LPAE.
 
 <p align="center">
-  <img src="  ">
+  <img src="https://github.com/user-attachments/assets/1a404b50-5a50-4cd2-943c-09c6a6bade1f">
 </p>
-<p align="center">(Figura do ESP32 montado com o sensor ZP07-MP503 em teste).</p>
+<p align="center">(Exemplo de funcionamento pelo Arduino).</p>
 
 ## Teste Final LT 2
 
@@ -62,11 +62,6 @@ Após os testes durante a fase de Operação, fizemos a substituição para o se
   <img src="https://github.com/user-attachments/assets/089b33c4-ac8b-464b-9f20-5f48d125534e">
 </p>
 <p align="center">(ESP32 montado com o sensor ZP07-MP503 em teste).</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3e45557b-642f-46f0-af59-c23e2a74d77f">
-</p>
-<p align="center">(Código indicando poluição pelo teste).</p>
 
 
 ## Código
