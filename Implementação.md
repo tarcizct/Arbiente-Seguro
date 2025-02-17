@@ -1,4 +1,4 @@
-## Teste Individual LT 1:
+## Teste Individual modelo LT 1:
 
 O primeiro passo da implementação do projeto se deu por testar individualmente cada um dos componentes necessários, sendo eles o Buzzer, MQ-135, Aplicativo Blinky em conexão com a ESP32, entretanto durante a fase de Operação, tivemopas algumas alterações como do sensor para o ZP07-MP503 e devido a uma melhor otimização, a mudança para o MQTT do Blynk.
 
