@@ -127,7 +127,7 @@ BLYNK_WRITE(V6) {
   }
 }
 
-##Código modelo LT2:
+##Código modelo LT2 (Final):
 
 #include <Wire.h>
 #include <WiFi.h>
