@@ -1,4 +1,4 @@
-####  Código modelo LT1:
+## Código modelo LT1:
 
 #define BLYNK_TEMPLATE_ID "TMPL2Ie612Qwl"
 #define BLYNK_TEMPLATE_NAME "Arbiente"
@@ -127,7 +127,7 @@ BLYNK_WRITE(V6) {
   }
 }
 
-#### Código modelo LT2 (Final):
+## Código modelo LT2 (Final):
 
 #include <Wire.h>
 #include <WiFi.h>
