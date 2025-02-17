@@ -12,4 +12,4 @@ O aplicativo Blynk também foi alterado, pois era um sistema que possuia um limi
 
 
 ## Andendo
-Foi tentado integração com o sistema LORA (https://github.com/LaporteEng/LoRa_Sensors), entretanto pela falta de tempo, optamos com a equipe não seguir em frente, visto que haveria problemas de integração entre a ESP32 e a comunicação LORA. Insistimos para que futuramente haja tentativa de integração.
+Foi tentado integração com o sistema LORA (https://github.com/LaporteEng/LoRa_Sensors), entretanto pela falta de tempo, optamos com a equipe em não seguir em frente, visto que haveria problemas de integração entre a ESP32 e a comunicação LORA. Insistimos para que futuramente haja tentativa de integração.
