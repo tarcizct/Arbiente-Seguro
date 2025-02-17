@@ -127,10 +127,6 @@ BLYNK_WRITE(V6) {
   }
 }
 
-
-
-
-
 ##Código modelo LT2:
 
 #include <Wire.h>
