@@ -10,15 +10,6 @@ A conexão feita está abaixo, com um resistor de 1.2kΩ:
 </p>
 <p align="center">(Figura do ESP32 montado com o Buzzer).</p>
 
-Código de Teste:
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c30e43ef-11ce-428a-9df8-f7bbdf282f50">
-</p>
-<p align="center">(Figura do código para o teste do Buzzer).</p>
-
-O resultado nos forneceu um som extremamente baixo, logo foi realizado a troca por um resistor de 600Ω para a melhora no som de alarme.
-
-
 ## MQ-135 (Posteriormente ZP07-MP503)
 
 A montagem se deu pela seguinte lógica:
@@ -28,42 +19,13 @@ A montagem se deu pela seguinte lógica:
 </p>
 <p align="center">(Figura do ESP32 montado com o sensor MQ-135).</p>
 
-Código de Teste:
+O funcionamento do sensor se deu corretamente, foi testado em um ambiente controlado com um pouco de fumaça (CO2) possibilitando ver os valores analógicos sendo alterados pelo código no Blynk.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/88c837b2-d2ec-4b46-a7d4-88b45fa2e156">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/65f0db86-2164-4efc-b575-b66555682046">
-</p>
-<p align="center">(Figura do Código do Sensor MQ-135).</p>
+## Blynk (Posteriormente MQTT)
 
-E o resultado serial foi: 
+Seguiu-se o passo a passo do blog (hackster.io) para realizar esse teste. A montagem do circuito foi exatamente a mesma que no teste do MQ-135, a diferença se dá somente no código.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/38839b0e-5e6c-4cc9-9860-e93af85b6ed7">
-</p>
-<p align="center">(Figura resultado serial lido pelo sensor MQ-135).</p>
-
-O funcionamento do sensor se deu corretamente, foi testado em um ambiente controlado com um pouco de fumaça (CO2) possibilitando ver os valores analógicos sendo alterados.
-
-## MQTT (Anteriormente Blynk)
-
-Seguiu-se o passo a passo do blog (hackster.io) para realizar esse teste. A montagem do circuito foi exatamente a mesma que no teste do MQ-135, a diferença se dá somente no código: 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/acfbed2d-520a-41e6-bbec-a96d40b02877">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/894375a4-ad77-4c3f-a2e9-5646c2c6e253">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aa74296a-bfd1-43ff-ae91-e6b8c917e27d">
-</p>
-
-E o resultado no aplicativo web/celularde foi: 
+E o resultado no aplicativo web/celular foi: 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2374f311-c74b-4bfc-b227-c5c5c983491d">
@@ -77,19 +39,22 @@ Segundo a Vaisala, quando o ppm de co2 chegar a 5000, há um risco para o ser hu
   <img src="https://github.com/user-attachments/assets/d913e7e0-1cb5-4356-9605-fbee8db292f6">
 </p>
 
-## Projeto Resultante
+## Modelo LT 1 do Projeto:
 
-Após correções, foi montado o projeto resultante, com integração entre Blynk, MQ-135 e Buzzer, para que em detecção de gases tóxicos, seja ativado a sirene do buzzer e também apareça um sinal visual no aplicativo. 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cc36eb5b-ad3a-4f69-a236-0e5272c9884b">
-</p>
+Primeiro protótipo do projeto, com integração entre Blynk, MQ-135 e o Buzzer, para que em detecção de gases tóxicos, seja ativado a sirene e também apareça um sinal visual no aplicativo. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/caf0b862-d945-4e26-bb9d-c31c9414778d">
 </p>
 
-## Codigo
+## Código Blynk
+https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
+
+## Modelo LT 2 do Projeto (Final)
+
+Após os testes durante a fase de Operação, fizemos a substituição para o sensor ZP07-MP503, utilizando o MQTT invés do Blynk, retirando o Buzzer, para um designe mais cleam e melhor integração com a
+
+##Código MQTT:
 https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
 
 ## Referências
