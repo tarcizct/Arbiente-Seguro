@@ -1,4 +1,4 @@
-## Teste Individual
+## Teste Individual LT 1:
 
 O primeiro passo da implementação do projeto se deu por testar individualmente cada um dos componentes necessários, sendo eles o Buzzer, MQ-135, Aplicativo Blinky em conexão com a ESP32, entretanto durante a fase de Operação, tivemopas algumas alterações como do sensor para o ZP07-MP503 e devido a uma melhor otimização, a mudança para o MQTT do Blynk.
 
@@ -39,6 +39,9 @@ Segundo a Vaisala, quando o ppm de co2 chegar a 5000, há um risco para o ser hu
   <img src="https://github.com/user-attachments/assets/d913e7e0-1cb5-4356-9605-fbee8db292f6">
 </p>
 
+## Código Blynk
+https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
+
 ## Modelo LT 1 do Projeto:
 
 Primeiro protótipo do projeto, com integração entre Blynk, MQ-135 e o Buzzer, para que em detecção de gases tóxicos, seja ativado a sirene e também apareça um sinal visual no aplicativo. 
@@ -47,12 +50,9 @@ Primeiro protótipo do projeto, com integração entre Blynk, MQ-135 e o Buzzer,
   <img src="https://github.com/user-attachments/assets/caf0b862-d945-4e26-bb9d-c31c9414778d">
 </p>
 
-## Código Blynk
-https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
-
 ## Modelo LT 2 do Projeto (Final)
 
-Após os testes durante a fase de Operação, fizemos a substituição para o sensor ZP07-MP503, utilizando o protocolo MQTT invés do aplicativo web Blynk e retirando o Buzzer, para um designe mais cleam e melhor integração com o sistema [Dashboard ThinkBoard](https://github.com/sooarees/Dashboard-ThingsBoard) no LPAE.
+Após os testes durante a fase de Operação, fizemos a substituição para o sensor ZP07-MP503, utilizando o protocolo MQTT invés do aplicativo web Blynk e retirando o Buzzer, para um designe mais cleam e melhor integração com o sistema [Dashboard ThinkBoard](https://github.com/sooarees/Dashboard-ThingsBoard) do LPAE.
 
 ## Código MQTT
 https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
