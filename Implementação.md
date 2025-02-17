@@ -10,7 +10,7 @@ A conexão feita está abaixo, com um resistor de 1.2kΩ:
 </p>
 <p align="center">(Figura do ESP32 montado com o Buzzer).</p>
 
-## MQ-135 (Posteriormente ZP07-MP503)
+## MQ-135 (Descontinuado)
 
 A montagem se deu pela seguinte lógica:
 
@@ -21,7 +21,7 @@ A montagem se deu pela seguinte lógica:
 
 O funcionamento do sensor se deu corretamente, foi testado em um ambiente controlado com um pouco de fumaça (CO2) possibilitando ver os valores analógicos sendo alterados pelo código no Blynk.
 
-## Blynk (Posteriormente MQTT)
+## Blynk (Descontinuado)
 
 Seguiu-se o passo a passo do blog (hackster.io) para realizar esse teste. A montagem do circuito foi exatamente a mesma que no teste do MQ-135, a diferença se dá somente no código.
 
