@@ -52,7 +52,7 @@ https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
 
 ## Modelo LT 2 do Projeto (Final)
 
-Após os testes durante a fase de Operação, fizemos a substituição para o sensor ZP07-MP503, utilizando o MQTT invés do Blynk, retirando o Buzzer, para um designe mais cleam e melhor integração com a
+Após os testes durante a fase de Operação, fizemos a substituição para o sensor ZP07-MP503, utilizando o MQTT invés do Blynk, retirando o Buzzer, para um designe mais cleam e melhor integração com o sistema Dashboard ThinkBoard no LPAE
 
 ##Código MQTT:
 https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
