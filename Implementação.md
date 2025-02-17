@@ -39,9 +39,6 @@ Segundo a Vaisala, quando o ppm de co2 chegar a 5000, há um risco para o ser hu
   <img src="https://github.com/user-attachments/assets/d913e7e0-1cb5-4356-9605-fbee8db292f6">
 </p>
 
-## Código Blynk
-https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
-
 ## Modelo LT 1 do Projeto:
 
 Primeiro protótipo do projeto, com integração entre Blynk, MQ-135 e o Buzzer, para que em detecção de gases tóxicos, seja ativado a sirene e também apareça um sinal visual no aplicativo. 
@@ -54,7 +51,25 @@ Primeiro protótipo do projeto, com integração entre Blynk, MQ-135 e o Buzzer,
 
 Após os testes durante a fase de Operação, fizemos a substituição para o sensor ZP07-MP503, utilizando o protocolo MQTT invés do aplicativo web Blynk e retirando o Buzzer, para um designe mais cleam e melhor integração com o sistema [Dashboard ThinkBoard](https://github.com/sooarees/Dashboard-ThingsBoard) do LPAE.
 
-## Código MQTT
+<p align="center">
+  <img src="  ">
+</p>
+<p align="center">(Figura do ESP32 montado com o sensor ZP07-MP503 em teste).</p>
+
+## Teste Final LT 2
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/089b33c4-ac8b-464b-9f20-5f48d125534e">
+</p>
+<p align="center">(ESP32 montado com o sensor ZP07-MP503 em teste).</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e45557b-642f-46f0-af59-c23e2a74d77f">
+</p>
+<p align="center">(Código indicando poluição pelo teste).</p>
+
+
+## Código
 https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
 
 ## Referências
@@ -74,3 +89,7 @@ https://github.com/tarcizct/Arbiente-Seguro/blob/main/Codigo.md
 *https://www.hackster.io/512389/esp32-monitoring-air-quality-with-mq-135-integrated-blynk-77d18b
 
 *https://github.com/GeorgK/MQ135?tab=readme-ov-file#readme
+
+*https://blog.asksensors.com/air-quality-sensor-mq135-cloud-mqtt/
+
+*https://www.winsen-sensor.com/d/files/ZP07-MP503-4.pdf
